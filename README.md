@@ -15,9 +15,8 @@ Dive deep into your Lichess chess game statistics! This Streamlit web applicatio
 
 **Key difference from the original Kaggle notebook:** While the notebook analyzed pre-downloaded data for Alireza Firouzja, this web app allows you to **analyze the games of *any* Lichess user** simply by entering their username!
 
-**🚀 Try the live app here:** https://huggingface.co/spaces/Andolinism/Lichess-HF-STL
+**🚀 Try the live app here:** https://huggingface.co/spaces/Andolinism/lichess-insights
 
-*(Note: Replace `YourUsername` in the URL above with your actual Hugging Face username if it's different)*
 
 ## ✨ Features / Analysis Sections
 
@@ -34,7 +33,7 @@ Explore various aspects of any Lichess user's performance, including:
 
 ## 🎮 How to Use
 
-1.  Navigate to the app using the link above: https://huggingface.co/spaces/Andolinism/Lichess-HF-STL
+1.  Navigate to the app using the link above: https://huggingface.co/spaces/Andolinism/lichess-insights
 2.  Enter the **Lichess Username** you want to analyze in the sidebar settings.
 3.  Select the **Time Period** for the analysis.
 4.  Choose the **Game Type** (Bullet, Blitz, or Rapid).
